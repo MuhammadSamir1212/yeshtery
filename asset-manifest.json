@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/yeshtery/static/css/main.86576d64.css",
-    "main.js": "/yeshtery/static/js/main.7638a51c.js",
+    "main.js": "/yeshtery/static/js/main.3c6f1e6b.js",
     "static/css/57.e58310df.chunk.css": "/yeshtery/static/css/57.e58310df.chunk.css",
-    "static/js/57.560fc56a.chunk.js": "/yeshtery/static/js/57.560fc56a.chunk.js",
+    "static/js/57.01cb1139.chunk.js": "/yeshtery/static/js/57.01cb1139.chunk.js",
     "static/media/similar-2.png": "/yeshtery/static/media/similar-2.de5c4d56e26d8c2d8cbc.png",
     "static/media/similar-1.png": "/yeshtery/static/media/similar-1.d3a9a51d4d4a2c6082c1.png",
     "static/media/similar-4.png": "/yeshtery/static/media/similar-4.f0891db17cdae8099356.png",
@@ -40,12 +40,12 @@
     "static/media/pluse.svg": "/yeshtery/static/media/pluse.88401e0747c0d422b487442cb686ef05.svg",
     "static/media/minas.svg": "/yeshtery/static/media/minas.a80d09d94ecbf89840360848e8f52734.svg",
     "main.86576d64.css.map": "/yeshtery/static/css/main.86576d64.css.map",
-    "main.7638a51c.js.map": "/yeshtery/static/js/main.7638a51c.js.map",
+    "main.3c6f1e6b.js.map": "/yeshtery/static/js/main.3c6f1e6b.js.map",
     "57.e58310df.chunk.css.map": "/yeshtery/static/css/57.e58310df.chunk.css.map",
-    "57.560fc56a.chunk.js.map": "/yeshtery/static/js/57.560fc56a.chunk.js.map"
+    "57.01cb1139.chunk.js.map": "/yeshtery/static/js/57.01cb1139.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86576d64.css",
-    "static/js/main.7638a51c.js"
+    "static/js/main.3c6f1e6b.js"
   ]
 }
